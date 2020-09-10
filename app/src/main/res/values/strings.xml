@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">GoldFinder</string>
+
+
+    <string name="google_api_key" translatable="false">AIzaSyDKuJvFsLa46aN3CIx6QASBvTNjjb8NDuU</string>
+
+</resources>
